@@ -16,5 +16,3 @@ ports:
     onOpen: open-browser
   - port: 7077
     onOpen: open-browser
-
-
